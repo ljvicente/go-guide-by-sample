@@ -29,4 +29,5 @@ This guide serves as a "cheatsheet" and may require basic programming knowledge 
 
 ## Other Types
 * [Maps](13-maps)
+* [Strings](14-stings)
 
