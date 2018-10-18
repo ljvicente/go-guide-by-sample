@@ -31,3 +31,6 @@ This guide serves as a "cheatsheet" and may require basic programming knowledge 
 * [Maps](13-maps)
 * [Strings](14-strings)
 
+## Pointers, Structures and Methods
+* [Pointers](15-pointers)
+
