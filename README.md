@@ -33,4 +33,5 @@ This guide serves as a "cheatsheet" and may require basic programming knowledge 
 
 ## Pointers, Structures and Methods
 * [Pointers](15-pointers)
+* [Structures](16-structures)
 
